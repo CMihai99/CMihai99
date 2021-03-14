@@ -1,10 +1,10 @@
 ### Hi there, I’m Calinescu Mihai 👋
 
-## I'm a teenage full-time software developer and part-time freelancer!
+## I'm a pre-teen interested in developing software and leaving a mark on society.
 
 - 👀 I’m interested in developing software
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and experiment with new topics!
 
