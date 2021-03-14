@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/h6wyzofbifcgeo05g3rmgjxtu?si=aOghnom0RF2qUgeP31JWQg)
 
 ### Connect with me:
 
@@ -45,21 +45,6 @@
 <br />
 
 ---
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.54 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=Qj6Jya9APiU)
-- [[#9] 🤯 42 Amazing Web Dev Videos! #WomensHistoryMonth (STACKr News 2021, Issue #9)](https://www.youtube.com/watch?v=OSLyP8L0s_k)
-- [Brackets is Dead | Switch to VS Code (Visual Studio Code Setup 2021)](https://www.youtube.com/watch?v=MQxLbUX5BFA)
-- [[#8] Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #8)](https://www.youtube.com/watch?v=tSSzfT5Txv8)
-- [How To Write Clean Code! | JavaScript Pro Tips (2021)](https://www.youtube.com/watch?v=ZI3q-_vjSZE)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
