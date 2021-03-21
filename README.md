@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and experiment with new topics!
+- 🥅 2021 Goals: Contribute to open-source projects
 
 ---
 
