@@ -1,8 +1,10 @@
-### Hi there, I’m Calinescu Mihai 👋
+# Hi there, I’m Calinescu Mihai 👋
 
-## I'm a teen interested in developing software.
+---
 
-- 🌱 And I’m currently developing an [open-source project](github.com/CMihai99/impulse) with [my cousin](github.com/BogySounds1)
+I'm a teen interested in developing software.
+
+And I’m currently developing an [open-source project](github.com/CMihai99/impulse) with [my cousin](github.com/BogySounds1), along with a [Minecraft clone](github.com/CMihai99/voxelcraft).
 
 ---
 
